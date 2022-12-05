@@ -2,24 +2,13 @@
  * @name AutoStartRichPresence
  * @version 2.0.6
  *
- * @author Lucario ☉ ∝ x²#7902
- * @authorId 438469378418409483
+ * @author (Alexandriabaily#1812)
+ * @authorId 
  * @description Auto starts Rich Presence with configurable settings.
  *
- * Check the website for [troubleshooting/FAQs](https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/master/Plugins/AutoStartRichPresence#troubleshooting) before requesting support.
- * DM the author or create an issue for support.
- *
- * @updateUrl https://raw.githubusercontent.com/Mega-Mewthree/BetterDiscordPlugins/master/Plugins/AutoStartRichPresence/AutoStartRichPresence.plugin.js
- * @invite ZYND2Xd
- * @authorLink https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/master/Plugins/AutoStartRichPresence
- * @source https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/master/Plugins/AutoStartRichPresence
- * @website https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/master/Plugins/AutoStartRichPresence
- * @donate https://www.buymeacoffee.com/lucariodev
  */
 /*
 MIT License
-
-Copyright (c) 2018-2022 Mega-Mewthree
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -44,10 +33,10 @@ SOFTWARE.
 
 const changelog = {
   title: "AutoStartRichPresence Updated",
-  version: "2.0.6",
+  version: "2.0.7",
   changelog: [
     {
-      title: "v2.0.6: Use first profile if none was explicitly set to active",
+      title: "v2.0.7: Use first profile if none was explicitly set to active",
       type: "fixed",
       items: [
         "If you do not have an active profile selected, the first one will be used.",
@@ -76,8 +65,6 @@ let RPClient;
   (() => {
   	/*
   	  MIT License
-
-  	  Copyright (c) 2017 Gus Caplan
 
   	  Permission is hereby granted, free of charge, to any person obtaining a copy
   	  of this software and associated documentation files (the "Software"), to deal
