@@ -1,7 +1,5 @@
 # BetterDiscordPlugins
 
-Plugins and Resources for BetterDiscord
+Plugins and Resources for BetterDiscord Updates only not source file
 
-My Discord server: https://join-nebula.surge.sh
-
-DM me `@Lucario ☉ ∝ x²#7902` or create an issue at https://github.com/Mega-Mewthree/BetterDiscordPlugins for support.
+DM me `Alexandriabaily#1812` 
